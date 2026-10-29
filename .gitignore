@@ -2,3 +2,6 @@ data/**
 
 *.csv
 *.zip
+xu_2015_C&G.pdf
+.venv/
+__pycache__/
